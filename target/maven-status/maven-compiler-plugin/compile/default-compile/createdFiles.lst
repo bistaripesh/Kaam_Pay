@@ -1,0 +1,8 @@
+com\ripesh\kaampay\App.class
+com\ripesh\kaampay\service\impl\UserServiceImpl.class
+com\ripesh\kaampay\entity\MasterEntity.class
+com\ripesh\kaampay\service\repository\UserRepository.class
+com\ripesh\kaampay\service\repositoryimpl\UserRepositoryImpl.class
+com\ripesh\kaampay\service\UserService.class
+com\ripesh\kaampay\entity\UserLog.class
+com\ripesh\kaampay\entity\User.class
